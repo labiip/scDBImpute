@@ -21,6 +21,7 @@ clc;
 run main.m
 ```
 
+```
 3. The downstream analysis
 ```
 run cluster.R
@@ -28,6 +29,7 @@ run DEanalysis.R
 run trajectory.R
 ```
 
+```
 The SC3 package was downloaded from R Bioconductor (http://bioconductor.org/packages/release/bioc/html/SC3.html).
 The edgeR package was downloaded from R Bioconductor (http://bioconductor.org/packages/release/bioc/html/edgeR.html).
 The Monocle 2 package was downloaded from the R Bioconductor page (https://bioconductor.org/packages/release/bioc/html/monocle.html). 
